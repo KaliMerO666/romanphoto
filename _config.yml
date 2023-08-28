@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "http://roman-photo.kalimero.rocks"
+baseurl: "/"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
